@@ -7,7 +7,7 @@
 
 # Competences:
 
-## Backend
+## Back-end
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -22,7 +22,7 @@
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 </br>
 
-## FrontEnd
+## Front-end
 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Ionic](https://img.shields.io/badge/ionic-0078D4?style=for-the-badge&logo=ionic&logoColor=white&labelColor=3880FF)
